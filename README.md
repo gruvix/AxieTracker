@@ -9,4 +9,4 @@ For Android use https://www.mediafire.com/file/lu2c9w6ys5qhr5e/Tracker1_v4.0_and
 
 For Windows use https://www.mediafire.com/file/agcojf7t2rlr8ck/Tracker1_v4.0_win_32_64.rar/file
 
-![alt text](https://github.com/gruvix/AxieTracker/blob/main/axie Tracker image.png?raw=true)
+![alt text](https://github.com/gruvix/AxieTracker/blob/main/axie %Tracker %image.png?raw=true)
